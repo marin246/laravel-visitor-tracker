@@ -19,7 +19,7 @@
         "illuminate/bus": ">=5.5",
         "illuminate/queue": ">=5.5",
         "illuminate/contracts": ">=5.5",
-        "piwik/device-detector": "^3.9",
+        "matomo/device-detector": "^4.0",
         "guzzlehttp/guzzle": ">=6.0"
     },
     "require-dev": {
